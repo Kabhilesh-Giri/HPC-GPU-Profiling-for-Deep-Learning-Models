@@ -1,4 +1,4 @@
-# High-Performance Computing GPU Profiling for Deep Learning Models
+# High Performance Computing GPU Profiling for Deep Learning Models
 
 <h3 align="center">GPU Performance Monitoring for Deep Learning Training Models</h3>
 
